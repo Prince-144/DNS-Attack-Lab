@@ -8,6 +8,10 @@ This project demonstrates how attackers perform DNS reconnaissance and exploit a
 
 ---
 
+## 🖧 Architecture Diagram
+<img width="1024" height="1536" alt="architecture diagram" src="https://github.com/user-attachments/assets/f3efe386-eb54-4032-997e-0b1547d088ab" />
+
+
 ## 🎯 Objectives
 
 * Understand DNS fundamentals (A, NS, SOA records)
